@@ -1,0 +1,26 @@
+## Come imparo?
+
+Per imparare a giocare a CTF bisogna **esercitarsi**, ma ovviamente per esercitarsi bisogna prima **studiare**. Di seguito troverai una lista di **link**, suddivisi per **categoria**, dove puoi cominciare a studiare le basi dei vari argomenti tipici dei CTF. Non troverai link per imparare le basi (sistemi operativi, programmazione e networking), ma solo relativi alle varie aree dei CTF. 
+
+La lista è ovviamente un punto di partenza, sappiamo tutti che la conoscenza non ha limiti e che il miglior strumento online per imparare e approfondire è sempre **Google**! 
+
+Un’altra fonte preziosa per imparare sono i **write-up** con le soluzioni dei vari CTF (vedi prossima sezione). 
+
+### Reversing
+ - [Reverse Engineering for Beginners](https://beginners.re)
+ - [Tuts4you](https://tuts4you.com)
+ - [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly)
+
+### Binary exploitation
+ - [Live Overflow](http://liveoverflow.com/binary_hacking/index.html)
+ - [SploitFun](https://sploitfun.wordpress.com)
+ - [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+
+### Web exploitation
+ - [Mutillidae](http://www.irongeek.com/i.php?page=videos/web-application-pen-testing-tutorials-with-mutillidae)
+
+### Crypto
+ - [Crypto 101](https://www.crypto101.io)
+
+### Forensics
+ - [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page)

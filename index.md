@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Benvenuto!
+Se vuoi scoprire di più e vuoi imparare a giocare a **Capture the Flag** (o ***CTF***) sei nel posto giusto!
 
-You can use the [editor on GitHub](https://github.com/capturetheflag-it/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Questo sito raccoglie informazioni, risorse e semplici challenge di prova per chi, come te, vuole addentrarsi nel mondo dei CTF.  
+Se invece sei capitato qui per caso, continua a leggere, magari scoprirai che giocare a CTF è qualcosa che potrebbe interessarti!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Un Capture the Flag, in ambito informatico, è una **competizione di hacking** nella quale i partecipanti hanno lo scopo di trovare e sfruttare vulnerabilità per conquistare il maggior numero di flag. [Clicca qui](https://capturetheflagit.wordpress.com/about/) se vuoi saperne di più sui CTF e i suoi formati.
 
-### Markdown
+Perché dovresti giocare a CTF? Se sei un appassionato di hacking e sicurezza informatica ci sono tanti validi motivi:
+ - Sono un ottimo metodo per esercitare la tua abilità di **trovare e sfruttare vulnerabilità**
+ - Stimolano la tua capacità di **ricerca** e di **problem solving**
+ - Ti danno spunti per **scoprire** e **imparare** cose che non conoscevi
+ - Creano un sano spirito di **competizione** e di **collaborazione**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/capturetheflag-it/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Entra nel nostro [gruppo Telegram](https://t.me/CapTheFlag) per conoscere altri appassionati come te!

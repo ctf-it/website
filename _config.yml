@@ -1,1 +1,3 @@
+title: CaptureTheFlag.it
 theme: jekyll-theme-minimal
+permalink: /:categories/:title
