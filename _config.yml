@@ -1,5 +1,7 @@
 title: CaptureTheFlag.it
 description: Dove scoprire ed imparare a giocare a CTF
 lang: it-IT
+baseurl: "/website"
+
 theme: jekyll-theme-minimal
-permalink: /:categories/:title
+permalink: /:categories/:title/
