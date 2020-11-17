@@ -10,7 +10,7 @@ Ci sono inoltre siti che offrono challenge da risolvere, alcuni Jeopardy-style, 
  - [WebSec](http://websec.fr)
  - [Hack.me](https://hack.me/)
 
-Per gli amanti del genere [Boot2Root](/about/#boot2root), ci sono molti siti che raccolgono **macchine virtuali** da scaricare e usare sui propri computer o che ospitano **laboratori virtuali**s. Molti siti offrono anche **write-up** con le soluzioni, anche in questo caso importanti per imparare cose nuove.
+Per gli amanti del genere [Boot2Root](/about/#boot2root), ci sono molti siti che raccolgono **macchine virtuali** da scaricare e usare sui propri computer o che ospitano **laboratori virtuali**. Molti siti offrono anche **write-up** con le soluzioni, anche in questo caso importanti per imparare cose nuove.
  - [HackTheBox](https://www.hackthebox.eu)
  - [Vulnhub](https://www.vulnhub.com)
  - [LAMP Security Training](https://sourceforge.net/projects/lampsecurity/files/CaptureTheFlag/)

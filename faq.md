@@ -24,7 +24,7 @@ Inutile ricordare che la conoscenza dell'inglese è fondamentale, e viene prima 
 
 I corsi consigliati sono quelli che coprono gli argomenti elencati nella prima domanda, quindi per la triennale un corso di Computer Science (informatica) o Computer Engineering (ingegneria informatica).
 Esistono anche corsi sulla sicurezza informatica triennali o magistrali, in presenza o online.
-Per una lista aggiornata dell'offerta accademica in Italia consulta [questa pagina](https://www.consorzio-cini.it/index.php/it/labcs-home/formazione-in-cyber-security-in-italia) sul sito del Consorzio CINI.
+Per una lista aggiornata dell'offerta accademica in Italia consulta il sito del [Consorzio CINI](https://cybersecnatlab.it/formazione-in-cybersecurity/).
 
 ### Quale OS devo usare?
 
@@ -39,7 +39,7 @@ Per studiare sicurezza informatica non è necessario installare Kali Linux, nè 
 Le certificazioni sono il mezzo per il quale un'azienda può dimostrare di avere personale con competenze in un settore, verificate da un ente indipendente e riconosciuto. Sono quindi principalmente uno strumento aziendale e non un percorso formativo. È quindi responsabilità delle aziende permettere e supportare i propri dipendenti ad ottenere certificazioni professionali.
 
 In termini d'utilità:
-- Se sei uno studente senza esperienza lavorativa, una certificazione non ti aiuterà a trovare lavoro perché probabilmente sarai allo stesso piano di qualcuno non certificato
+- Se sei uno studente senza esperienza lavorativa, non è detto che una certificazione ti aiuti a trovare lavoro perché probabilmente sarai sullo stesso piano di qualcuno non certificato
 - Se sei un lavoratore con esperienza informatica ma SENZA esperienza in ambito sicurezza informatica, una certificazione potrebbe aiutarti a cambiare carriera ma probabilmente non sarà sufficiente per mantenere una seniority equivalente
 - Se sei un lavoratore con esperienza in ambito sicurezza informatica, una certificazione specifica potrebbe aiutarti a trovare lavoro presso un'aziende che la richiede, ma anche in quel caso potrebbe non essere sufficiente, dato che non si riuscirebbe a dimostrare esperienza in materia
 
@@ -94,8 +94,8 @@ In termini d'utilità:
 ### Misc
 
 - [phrack](https://www.phrack.org)
-- [PoC || GTFO](https://nostarch.com/gtfo)
-- [PoC || GTFO 2](https://nostarch.com/gtfo2)
+- [PoC &#124;&#124; GTFO](https://nostarch.com/gtfo)
+- [PoC &#124;&#124; GTFO 2](https://nostarch.com/gtfo2)
 - [The paradox of choice](http://azeria-labs.com/downloads/Paradox-Of-Choice_Azeria.pdf)
 
 ### News
@@ -113,5 +113,3 @@ In termini d'utilità:
 - Qualsiasi corso che in tre semplici lezioni ti farà diventare un hacker etico
 - Hacklog e qualsiasi altro videocorso che promette risultati garantiti in 7 giorni
 - Qualsiasi religion war relativa a software, sistemi operativi, ecc. Il radicalismo (in qualsiasi ambito) è il tumore del progresso. Gli estremisti fungono da metastasi.
-
-*[in aggiornamento]*
