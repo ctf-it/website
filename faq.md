@@ -1,5 +1,9 @@
-## FAQ
-
+---
+layout: page
+title: FAQ Sicurezza Informatica
+permalink: /faq
+menu: true
+---
 ***DISCLAIMER** Questo documento non vuole essere un dogma. Le informazioni riportate in basso sono principalmente frutto di opinioni di una community e non sono "scientificamente dimostrate". Sebbene il documento contenga informazioni potenzialmente applicabili a qualsiasi circostanza, il target audience comprende principalmente giovani studenti indecisi. Se volete proporre nuovi contenuti, siete invitati a fare una pull request.*
 
 ### Voglio entrare nel mondo della sicurezza informatica, da dove inizio?

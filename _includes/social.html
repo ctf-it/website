@@ -1,0 +1,4 @@
+<ul class="social-media-list">
+  {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}">{% fa_svg fab.fa-github %} <span class="username">{{ site.github_username| escape }}</span></a></li>{%- endif -%}
+  {%- if site.telegram_username -%}<li><a href="https://t.me/{{ site.telegram_username| cgi_escape | escape }}">{% fa_svg fab.fa-telegram %} <span class="username">{{ site.telegram_username| escape }}</span></a></li>{%- endif -%}
+</ul>
