@@ -3,7 +3,7 @@ layout: page
 title: Come imparo?
 permalink: /risorse/come-imparo
 ---
-Per imparare a giocare a CTF bisogna **esercitarsi**, ma ovviamente per esercitarsi bisogna prima **studiare**. Di seguito troverai una lista di **link**, suddivisi per **categoria**, dove puoi cominciare a studiare le basi dei vari argomenti tipici dei CTF. Per consigli su come studiare le basi (sistemi operativi, programmazione e networking) visita le [FAQ](/faq/).
+Per imparare a giocare a CTF bisogna **esercitarsi**, ma ovviamente per esercitarsi bisogna prima **studiare**. Di seguito troverai una lista di **link**, suddivisi per **categoria**, dove puoi cominciare a studiare le basi dei vari argomenti tipici dei CTF. Per consigli su come studiare le basi (sistemi operativi, programmazione e networking) visita le [FAQ](/faq).
 
 La lista è ovviamente un punto di partenza, sappiamo tutti che la conoscenza non ha limiti e che il miglior strumento online per trovarer materiale e approfondire è sempre **Google**! 
 

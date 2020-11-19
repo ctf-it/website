@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cos'è un CTF
-permalink: /abouts
+permalink: /about
 menu: true
 ---
 Un **Capture the Flag** (abbreviato in **CTF**) è un gioco di **hacking** dove team o singoli cercano **vulnerabilità** in sistemi e software messi a disposizione dagli organizzatori della competizione al fine di sfruttarle e di collezionare le varie **flag** nascoste sul sistema bersaglio. Oltre a trovare e sfruttare vulnerabilità molte challenge consistono in risolvere **puzzle logici** o capire come funziona e come abusare un sistema. Il gioco è ispirato e prende il nome da [Rubabandiera](https://it.wikipedia.org/wiki/Rubabandiera), che in inglese è chiamato appunto Capture the Flag.

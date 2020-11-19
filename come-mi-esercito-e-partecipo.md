@@ -3,7 +3,7 @@ layout: page
 title: Come mi esercito e partecipo?
 permalink: /risorse/come-mi-esercito-e-partecipo
 ---
-Il portale principale per rimanere aggiornati sui CTF di tipo [Jeopardy](/about/#jeopardy) e [Attack/Defense](/about/#attack-defense) è [CTFTime](https://ctftime.org). Su CTFTime non solo puoi trovare le **date** di tutti i **prossimi CTF** (controlla il menu laterale!) ma anche le **classifiche** degli eventi passati, i **profili dei team** partecipanti (a cui si può anche chiedere di far parte) e, soprattutto, tanti **write-up** che spiegano come risolvere una o più challenge di uno specifico CTF: una risorsa preziosa per imparare.
+Il portale principale per rimanere aggiornati sui CTF di tipo [Jeopardy](/about#jeopardy) e [Attack/Defense](/about#attack-defense) è [CTFTime](https://ctftime.org). Su CTFTime non solo puoi trovare le **date** di tutti i **prossimi CTF** (controlla il menu laterale!) ma anche le **classifiche** degli eventi passati, i **profili dei team** partecipanti (a cui si può anche chiedere di far parte) e, soprattutto, tanti **write-up** che spiegano come risolvere una o più challenge di uno specifico CTF: una risorsa preziosa per imparare.
 
 Ci sono inoltre siti che offrono challenge da risolvere, alcuni Jeopardy-style, altri sequenziali per difficoltà. Ecco una lista:
  - [Pwnable.kr](http://pwnable.kr)
