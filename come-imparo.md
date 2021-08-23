@@ -15,15 +15,18 @@ Un’altra fonte preziosa per imparare sono i **write-up** con le soluzioni dei 
  - [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly)
 
 ### Binary exploitation
- - [Live Overflow](http://liveoverflow.com/binary_hacking/index.html)
- - [SploitFun]( )
+ - [pwn.college](https://pwn.college/)
+ - [Live Overflow](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+ - [SploitFun](https://sploitfun.wordpress.com/)
  - [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 
 ### Web exploitation
+ - [PortSwigger Web Security Academy](https://portswigger.net/web-security/)
  - [Mutillidae](http://www.irongeek.com/i.php?page=videos/web-application-pen-testing-tutorials-with-mutillidae)
 
 ### Crypto
  - [Crypto 101](https://www.crypto101.io)
+ - [Cryptohack](https://cryptohack.org)
 
 ### Forensics
  - [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page)

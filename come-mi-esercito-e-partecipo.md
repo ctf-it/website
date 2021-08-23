@@ -8,9 +8,11 @@ Il portale principale per rimanere aggiornati sui CTF di tipo [Jeopardy](/about#
 Ci sono inoltre siti che offrono challenge da risolvere, alcuni Jeopardy-style, altri sequenziali per difficoltà. Ecco una lista:
  - [Pwnable.kr](http://pwnable.kr)
  - [Pwnable.tw](https://pwnable.tw/)
+ - [RootMe](https://www.root-me.org/)
  - [HackThis](https://www.hackthis.co.uk)
  - [Exploit Exercises](https://exploit-exercises.com)
  - [WebSec](http://websec.fr)
+ - [XSS Game](https://xss.pwnfunction.com/)
  - [Hack.me](https://hack.me/)
 
 Per gli amanti del genere [Boot2Root](/about/#boot2root), ci sono molti siti che raccolgono **macchine virtuali** da scaricare e usare sui propri computer o che ospitano **laboratori virtuali**. Molti siti offrono anche **write-up** con le soluzioni, anche in questo caso importanti per imparare nuove tecniche.
