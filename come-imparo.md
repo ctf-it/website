@@ -18,7 +18,7 @@ Un’altra fonte preziosa per imparare sono i **write-up** con le soluzioni dei 
  - [pwn.college](https://pwn.college/)
  - [Live Overflow](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
  - [SploitFun](https://sploitfun.wordpress.com/)
- - [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+ - [Modern Binary Exploitation](https://web.archive.org/web/20210710080726/http://security.cs.rpi.edu/courses/binexp-spring2015/)
 
 ### Web exploitation
  - [PortSwigger Web Security Academy](https://portswigger.net/web-security/)
@@ -30,3 +30,6 @@ Un’altra fonte preziosa per imparare sono i **write-up** con le soluzioni dei 
 
 ### Forensics
  - [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page)
+
+### Mobile
+ - [Hextree Mobile Free Course](https://app.hextree.io/map/android/android-continent)
